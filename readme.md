@@ -58,9 +58,9 @@ If phone is connected via usb, you can use the USB device name eg something like
 
 Useful links:
 
-    - https://forum.xda-developers.com/t/debloat-galaxy-watch-4.4324147/
-    - https://forum.xda-developers.com/t/watch4-adb-commands-disable-enable-uninstall-restore-system-app-install-pull-apps.4324063/
-    - https://developer.android.com/training/wearables/get-started/debugging - enable wifi debugging on watch
+- https://forum.xda-developers.com/t/debloat-galaxy-watch-4.4324147/
+- https://forum.xda-developers.com/t/watch4-adb-commands-disable-enable-uninstall-restore-system-app-install-pull-apps.4324063/
+- https://developer.android.com/training/wearables/get-started/debugging - enable wifi debugging on watch
 
 To find app ids, from PC:
 
